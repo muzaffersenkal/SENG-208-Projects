@@ -66,5 +66,3 @@ The Contact Management System (CMS) is a Python-based application designed to he
 - Documentation: Include inline comments and documentation to make the codebase understandable and maintainable.
 - OOP: use object-oriented programming principles for code organization and modularity.
 
-## Conclusion:
-The Contact Management System provides a simple yet effective solution for users to organize and manage their contacts efficiently. With its user-friendly interface and essential features, it helps users keep track of their contacts, categorize them, and quickly find the information they need.

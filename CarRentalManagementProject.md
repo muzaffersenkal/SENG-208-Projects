@@ -83,5 +83,3 @@ The Car Rental Management system is a Python-based application designed to help 
 - Documentation: Include inline comments and documentation to make the codebase understandable and maintainable.
 - OOP: use object-oriented programming principles for code organization and modularity.
 
-## Conclusion:
-The Command Line Car Rental Management system provides a reliable solution for rental agencies to streamline their rental operations. With its user-friendly interface and essential features, it helps agencies manage their car inventory, track rentals, and generate invoices efficiently.

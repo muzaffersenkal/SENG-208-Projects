@@ -73,6 +73,3 @@ The Stock Management System (SMS) is a Python-based application designed to help
 - Logging: Implement logging to record significant events and errors for debugging and auditing purposes.
 - Documentation: Include inline comments and documentation to make the codebase understandable and maintainable.
 - OOP: use object-oriented programming principles for code organization and modularity.
-
-## Conclusion:
-The Command Line Stock Management System provides a flexible and efficient solution for businesses to manage their stock inventory effectively. With its user-friendly interface and comprehensive features, it streamlines stock tracking, supplier management, purchase orders, and reporting tasks, helping businesses optimize their operations and maximize profitability.

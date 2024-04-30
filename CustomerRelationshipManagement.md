@@ -73,5 +73,3 @@ The Customer Relationship Management (CRM) system is a Python-based application 
 - Documentation: Include inline comments and documentation to make the codebase understandable and maintainable.
 - OOP: use object-oriented programming principles for code organization and modularity.
 
-## Conclusion:
-The Customer Relationship Management (CRM) system provides a simple solution for businesses to manage their interactions with customers effectively. With its user-friendly interface and basic features, it helps users keep track of customer information, interactions, and follow-up tasks.

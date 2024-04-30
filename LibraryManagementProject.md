@@ -67,5 +67,3 @@ The Library Management System (LMS) is a Python-based application designed to ma
 - Documentation: Include inline comments and documentation to make the codebase understandable and maintainable.
 - OOP: use object-oriented programming principles for code organization and modularity.
 
-## Conclusion
-The Library Management System provides a straightforward yet effective solution for managing library operations efficiently. By leveraging the power of Python and command-line interface, it offers a user-friendly experience for librarians to handle book inventory, member records, borrowing transactions, and reporting seamlessly.

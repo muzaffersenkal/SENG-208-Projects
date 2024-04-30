@@ -78,6 +78,3 @@ The Subscription Management system is a Python-based application designed to hel
 - Logging: Implement logging to record significant events and errors for debugging and auditing purposes.
 - Documentation: Include inline comments and documentation to make the codebase understandable and maintainable.
 - OOP: use object-oriented programming principles for code organization and modularity.
-
-## Conclusion:
-The Subscription Management system provides a convenient solution for users to organize and manage their subscriptions effectively. With its user-friendly interface and essential features, it helps users track payment details, set reminders, and analyze subscription expenses to make informed financial decisions.

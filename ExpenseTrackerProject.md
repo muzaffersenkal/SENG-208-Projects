@@ -63,5 +63,3 @@ The  Expense Tracker (CLET) is a Python-based application designed to help users
 - Documentation: Include inline comments and documentation to make the codebase understandable and maintainable.
 - OOP: use object-oriented programming principles for code organization and modularity.
 
-## Conclusion:
-The Expense Tracker provides a convenient solution for users to track and manage their expenses effectively. With its user-friendly interface and essential features, it helps users monitor their spending, set budgets, and make informed financial decisions.
