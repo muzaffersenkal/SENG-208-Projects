@@ -28,7 +28,7 @@ The  Expense Tracker (CLET) is a Python-based application designed to help users
 
 ## Technologies Used:
 - Python programming language.
-- Standard libraries like `os`, `datetime`, `csv` for file handling, date/time operations, and CSV file manipulation.
+- Standard libraries like `os`, `datetime`, `csv` or `pandas` for file handling, date/time operations, and CSV file manipulation.
 - Basic data structures like lists, dictionaries for storing and managing data.
 - Command-line interface for user interaction.
 

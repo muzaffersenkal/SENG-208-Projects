@@ -28,7 +28,7 @@ The Contact Management System (CMS) is a Python-based application designed to he
 
 ## Technologies Used:
 - Python programming language.
-- Standard libraries like `os`, `csv` for file handling and CSV file manipulation.
+- Standard libraries like `os`, `csv` or `pandas`  for file handling and CSV file manipulation.
 - Basic data structures like lists, dictionaries for storing and managing data.
 - Command-line interface for user interaction.
 

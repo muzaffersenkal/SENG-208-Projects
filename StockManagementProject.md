@@ -36,7 +36,7 @@ The Stock Management System (SMS) is a Python-based application designed to help
 
 ## Technologies Used:
 - Python programming language.
-- Standard libraries like `os`, `datetime`, `csv` for file handling, date/time operations, and CSV file manipulation.
+- Standard libraries like `os`, `datetime`, `csv`, `pandas` for file handling, date/time operations, and CSV file manipulation.
 - Basic data structures like lists, dictionaries for storing and managing data.
 - Command-line interface for user interaction.
 

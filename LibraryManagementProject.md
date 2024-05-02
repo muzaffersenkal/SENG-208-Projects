@@ -32,7 +32,7 @@ The Library Management System (LMS) is a Python-based application designed to ma
 
 ## Technologies Used
 - Python programming language.
-- Standard libraries like `os`, `datetime`, `csv` for file handling, date/time operations, and CSV file manipulation.
+- Standard libraries like `os`, `datetime`, `csv` or `pandas` for file handling, date/time operations, and CSV file manipulation.
 - Basic data structures like lists, dictionaries for storing and managing data.
 - Command-line interface for user interaction.
 

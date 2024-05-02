@@ -31,7 +31,7 @@ The Task List Manager (TLM) is a Python-based application designed to help users
 
 ## Technologies Used:
 - Python programming language.
-- Standard libraries like `os`, `csv` for file handling and CSV file manipulation.
+- Standard libraries like `os`, `csv`or `pandas`  for file handling and CSV file manipulation.
 - Basic data structures like lists, dictionaries for storing and managing data.
 - Command-line interface for user interaction.
 

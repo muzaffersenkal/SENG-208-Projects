@@ -12,7 +12,6 @@ Below you will find a variety of project ideas designed to enhance your learning
  You are encouraged to work in teams for these projects. So, your team can be minumum **3** and maximum **5** people.
 
 
-
 ### 2. Select your team project
 
 There are variety of projects below. Each project offers exciting opportunities for you to showcase your python programming skills.

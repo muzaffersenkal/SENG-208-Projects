@@ -1,7 +1,7 @@
 # Car Rental Management
 
 ## Project Overview:
-The Car Rental Management system is a Python-based application designed to help rental agencies manage their car rental operations efficiently. It provides functionalities for renting out cars, returning cars, managing inventory, tracking rental history, and generating rental invoices.
+The Car Rental Management system is a Python-based application designed to help rental agencies manage their car rental operations efficiently. It provides functionalities for renting out cars, returning cars, managing inventory, tracking rental history.
 
 ## Features:
 1. **Authentication System:**
@@ -21,22 +21,19 @@ The Car Rental Management system is a Python-based application designed to help 
 4. **Rental History Tracking:**
     - Track rental history for each car (e.g., rental start date, return date, customer details).
 
-5. **Invoice Generation:**
-    - Generate invoices for completed rentals with detailed rental information and charges.
-
-6. **Search Functionality:**
+5. **Search Functionality:**
     - Search for cars by make, model, year, availability, or rental price.
 
-7. **Display Cars:**
+6. **Display Cars:**
     - Display all cars in the inventory.
     - Display available cars for rent.
 
-8. **Data:**
+7. **Data:**
     - Store car and rental data in a file.
 
 ## Technologies Used:
 - Python programming language.
-- Standard libraries like `os`, `csv` for file handling and CSV file manipulation.
+- Standard libraries like `os`, `csv` or `pandas`  for file handling and CSV file manipulation.
 - Basic data structures like lists, dictionaries for storing and managing data.
 - Command-line interface for user interaction.
 
