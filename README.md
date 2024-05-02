@@ -15,7 +15,7 @@ Below you will find a variety of project ideas designed to enhance your learning
 ### 2. Select your team project
 
 There are variety of projects below. Each project offers exciting opportunities for you to showcase your python programming skills.
-The project are explained in detail. Please read all project carefully before selecting your team project and decide your with your team.
+The project are explained in detail. Please read all project carefully before selecting your team project.
 
 
 ### Projects
